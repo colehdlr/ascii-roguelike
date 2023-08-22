@@ -1,0 +1,214 @@
+{
+    "items": [
+        {
+            "name": "Wooden Sword",
+            "affects": "damage",
+            "effect": 1,
+            "abilityText": "Stab",
+            "abilityType": "attack",
+            "abilityEffect": 1,
+            "dot": 0,
+            "manaCost": 0
+        },
+        {
+            "name": "Rusty Boots",
+            "affects": "maxHealth",
+            "effect": 1,
+            "abilityText": "Tetanus Kick",
+            "abilityType": "attack",
+            "abilityEffect": 1,
+            "dot": 1,
+            "manaCost": 0
+        },
+        {
+            "name": "Mana Striders",
+            "affects": "maxMana",
+            "effect": 2,
+            "abilityText": "Mana Regen",
+            "abilityType": "manaRegen",
+            "abilityEffect": 2,
+            "dot": 0,
+            "manaCost": 0
+        },
+        {
+            "name": "Titan's Warhammer",
+            "affects": "damage",
+            "effect": 3,
+            "abilityText": "Titan Smash",
+            "abilityType": "attack",
+            "abilityEffect": 4,
+            "dot": 0,
+            "manaCost": 2
+        },
+        {
+            "name": "Ethereal Armour",
+            "affects": "maxHealth",
+            "effect": 2,
+            "abilityText": "God's Faith",
+            "abilityType": "healthRegen",
+            "abilityEffect": 3,
+            "dot": 0,
+            "manaCost": 2
+        },
+        {
+            "name": "Thunderous Rage",
+            "affects": "damage",
+            "effect": 2,
+            "abilityText": "Zap",
+            "abilityType": "attack",
+            "abilityEffect": 2,
+            "dot": 0,
+            "manaCost": 1
+        },
+        {
+            "name": "Magical Flute",
+            "affects": "maxMana",
+            "effect": 1,
+            "abilityText": "Annoying Whistle",
+            "abilityType": "block",
+            "abilityEffect": "enemy",
+            "dot": 0,
+            "manaCost": 2
+        },
+        {
+            "name": "Runic Guard",
+            "affects": "maxHealth",
+            "effect": 3,
+            "abilityText": "Rune Shield",
+            "abilityType": "block",
+            "abilityEffect": "enemy",
+            "dot": 0,
+            "manaCost": 2
+        },
+        {
+            "name": "Occult Surge",
+            "affects": "maxMana",
+            "effect": 3,
+            "abilityText": "Dark Arts",
+            "abilityType": "manaRegen",
+            "abilityEffect": 4,
+            "dot": 0,
+            "manaCost": 1
+        },
+        {
+            "name": "Divine Aegis",
+            "affects": "maxHealth",          
+            "effect": 1,
+            "abilityText": "Divination",
+            "abilityType": "manaRegen",
+            "abilityEffect": 2,
+            "dot": 0,
+            "manaCost": 0
+        },
+        {
+            "name": "Nature's Embrace",
+            "affects": "maxHealth",
+            "effect": 2,
+            "abilityText": "Nectar of Life",
+            "abilityType": "healthRegen",
+            "abilityEffect": 3,
+            "dot": 0,
+            "manaCost": 2
+        },
+        {
+            "name": "Shadow Veil",
+            "affects": "maxMana",
+            "effect": 1,
+            "abilityText": "Shadow Jab",
+            "abilityType": "attack",
+            "abilityEffect": 2,
+            "dot": 0,
+            "manaCost": 0
+        },
+        {
+            "name": "Sunfire Blade",
+            "affects": "damage",
+            "effect": 4,
+            "abilityText": "Scorched Vengeance",
+            "abilityType": "attack",
+            "abilityEffect": 8,
+            "dot": 0,
+            "manaCost": 3
+        },
+        {
+            "name": "Warm Aura",
+            "affects": "maxHealth",
+            "effect": 2,
+            "abilityText": "Meditate",
+            "abilityType": "healthRegen",
+            "abilityEffect": 2,
+            "dot": 0,
+            "manaCost": 0
+        },
+        {
+            "name": "Thunderclap Whip",
+            "affects": "damage",
+            "effect": 2,
+            "abilityText": "Lightning Crack",
+            "abilityType": "attack",
+            "abilityEffect": 3,
+            "dot": 0,
+            "manaCost": 0
+        },
+        {
+            "name": "Chainmail Cloak",
+            "affects": "maxHealth",
+            "effect": 1,
+            "abilityText": "Fortify",
+            "abilityType": "healthRegen",
+            "abilityEffect": 3,
+            "dot": 0,
+            "manaCost": 0
+        },
+        {
+            "name": "Inferno Gauntlets",
+            "affects": "damage",
+            "effect": 3,
+            "abilityText": "Inferno Burst",
+            "abilityType": "attack",
+            "abilityEffect": 5,
+            "dot": 0,
+            "manaCost": 2
+        },
+        {
+            "name": "Enchanted Amulet",
+            "affects": "maxMana",
+            "effect": 2,
+            "abilityText": "Arcane Blessing",
+            "abilityType": "manaRegen",
+            "abilityEffect": 5,
+            "dot": 0,
+            "manaCost": 2
+        },
+        {
+            "name": "Ares Wisdom",
+            "affects": "damage",
+            "effect": 2,
+            "abilityText": "War God's Smite",
+            "abilityType": "attack",
+            "abilityEffect": 3,
+            "dot": 0,
+            "manaCost": 0
+        },
+        {
+            "name": "Cursed Chains",
+            "affects": "maxMana",
+            "effect": -2,
+            "abilityText": "Imprison",
+            "abilityType": "attack",
+            "abilityEffect": 4,
+            "dot": 2,
+            "manaCost": 3
+        },
+        {
+            "name": "The Plague",
+            "affects": "maxHealth",
+            "effect": -3,
+            "abilityText": "Miasmic Terror",
+            "abilityType": "attack",
+            "abilityEffect": 2,
+            "dot": 3,
+            "manaCost": 2
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+@font-face {
+	font-family: RobotoMono;
+	src: url(RobotoMono.ttf);
+}
+
+#container {
+    background: black;
+    width: 100vw;
+    height: 100vh;
+    padding: 0;
+    margin: 0;
+    text-align: center;
+}
+
+#title {
+    color: white;
+    padding-top: 200px;
+    margin: auto;
+    font-family: RobotoMono, sans-serif;
+    font-size: 50px;
+}
+
+
+#button {
+    background-color: black;
+    color: white;
+    cursor: pointer;
+    margin-top: 40px;
+    padding: 4px 12px 4px 12px;
+    font-family: RobotoMono, sans-serif;
+    font-size: 30px;
+    border: 2px solid white;
+    transition: all 0.3s ease;
+}
+
+#button:hover {
+    background-color: white;
+    color: black;
+    border: 2px solid black;
+}
+
+#canvas {
+    border: 5px solid white;
+    margin: auto;
+    margin-bottom: 30px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
